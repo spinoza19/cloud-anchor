@@ -1,4 +1,0 @@
-# cloud-anchor
-Commit 1
-Date: 2023-01-17T08:47:46Z
-Initial commit
