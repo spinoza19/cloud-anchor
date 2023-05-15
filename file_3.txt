@@ -1,4 +1,0 @@
-# cloud-anchor
-Commit 4
-Date: 2023-05-03T10:48:16Z
-Refactor helpers
